@@ -1,1 +1,1 @@
-# EBook-Store-examples
+# E-Book-Store-example coding
